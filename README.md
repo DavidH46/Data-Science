@@ -1,5 +1,7 @@
  # Data Science
  
+ Exercises/datasets from Datacamp website
+ 
 ## 1. Simple Statistics:
   Use 2008_all_states.csv data to perform simple statistics calculation.
   
@@ -17,4 +19,4 @@
   Perform KMeans clustering on wine.csv data into 3 groups.
   
   Compare results with original grouping provided by the data.
-  
+
